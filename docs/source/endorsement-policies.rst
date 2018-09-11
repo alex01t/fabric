@@ -92,7 +92,7 @@ to allow transactions to be committed with endorsements from the new organizatio
 Endorsement policy syntax
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-As you can see above, policies are expressed expressed in terms of principals
+As you can see above, policies are expressed in terms of principals
 ("principals" are identities matched to a role). Principals are described as
 ``'MSP.ROLE'``, where ``MSP`` represents the required MSP ID and ``ROLE``
 represents one of the four accepted roles: ``member``, ``admin``, ``client``, and
